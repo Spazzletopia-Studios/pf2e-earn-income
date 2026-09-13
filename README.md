@@ -102,3 +102,7 @@ projects, retraining, and full-party downtime management — coming to the
 ## Compatibility
 
 Foundry VTT v13–v14 (verified 14) · pf2e system 8.x (verified 8.4.0).
+
+## Get help
+
+[Get Help](https://github.com/Spazzletopia-Studios/spazzmods-support) — report a bug, get install help, ask a question, or suggest an idea.
