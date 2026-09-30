@@ -4,6 +4,9 @@ Pick a character, a skill, and a task level. This module rolls the Earn
 Income downtime activity properly — right DC, right pay, right ledger — so
 you spend no time doing the math by hand.
 
+Requirements: Foundry VTT 13 with the Pathfinder Second Edition system 7.12.2,
+or Foundry VTT 14 with PF2e 8.x.
+
 ## Install
 
 **The easy way (Windows):** download the [SpazzMods Installer](https://github.com/Spazzletopia-Studios/spazzmods-installer/releases/latest),
@@ -101,7 +104,8 @@ projects, retraining, and full-party downtime management — coming to the
 
 ## Compatibility
 
-Foundry VTT v13–v14 (verified 14) · pf2e system 8.x (verified 8.4.0).
+Foundry VTT 13 with the PF2e system 7.12.2, or Foundry VTT 14 with PF2e 8.x
+(verified 8.5.0).
 
 ## Get help
 
